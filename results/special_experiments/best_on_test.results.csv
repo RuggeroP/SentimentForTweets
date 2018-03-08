@@ -1,0 +1,4 @@
+N.,K,T_W2V,P_W2V,T_FT,P_FT,VEC,SUM,AVG,PROD,MIN,MAX,POS_ALL,NOUN,VERB,ADJ,ADV,A_CAPS,C_CAPS,P_EMO,N_EMO,EL_W,NEG,BAG_OF_WORDS,KERNEL,MODEL_FILE,VECTORS_SIZE,SUBJ_FSCORE,OPOS_FSCORE,ONEG_FSCORE,IRO_FSCORE,POL_FSCORE
+1,1,y,n,n,n,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,linear,default,100,0.722,0.6689,0.6217,0.473,0.6453
+2,1,y,n,n,n,y,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,linear,default,100,0.7178,0.661,0.6077,0.48,0.6343
+3,1,y,n,n,n,y,y,y,y,y,y,y,y,y,y,y,n,n,n,n,n,n,n,linear,default,100,0.676,0.6111,0.6143,0.5138,0.6127

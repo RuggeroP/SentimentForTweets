@@ -1,0 +1,10 @@
+N.,K,T_W2V,P_W2V,T_FT,P_FT,VEC,SUM,AVG,PROD,MIN,MAX,POS_ALL,NOUN,VERB,ADJ,ADV,A_CAPS,C_CAPS,P_EMO,N_EMO,EL_W,NEG,BAG_OF_WORDS,KERNEL,MODEL_FILE,VECTORS_SIZE,SUBJ_FSCORE,OPOS_FSCORE,ONEG_FSCORE,IRO_FSCORE,POL_FSCORE
+1,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,linear,default,0,0.40756,0.4207,0.37398,0.46886,0.39734
+2,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,linear,default,0,0.40756,0.41966,0.37398,0.46886,0.39684
+3,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,linear,default,0,0.40756,0.41966,0.37398,0.46886,0.39684
+4,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,linear,default,0,0.40756,0.41966,0.3822,0.46886,0.40094
+5,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,linear,default,0,0.40756,0.41966,0.37398,0.46886,0.39684
+6,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,linear,default,0,0.40756,0.41966,0.56376,0.46886,0.49172
+7,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,y,y,n,linear,default,0,0.40756,0.4207,0.56026,0.46886,0.49044
+8,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,linear,default,0,0.46676,0.4986,0.5299,0.47862,0.51426
+9,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,y,y,y,linear,default,0,0.47304,0.50316,0.55012,0.47874,0.52662

@@ -1,0 +1,10 @@
+N.,K,T_W2V,P_W2V,T_FT,P_FT,VEC,SUM,AVG,PROD,MIN,MAX,POS_ALL,NOUN,VERB,ADJ,ADV,A_CAPS,C_CAPS,P_EMO,N_EMO,EL_W,NEG,BAG_OF_WORDS,KERNEL,MODEL_FILE,VECTORS_SIZE
+1,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,linear,default,0
+2,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,linear,default,0
+3,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,linear,default,0
+4,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,linear,default,0
+5,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,linear,default,0
+6,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,linear,default,0
+7,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,y,y,n,linear,default,0
+8,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,linear,default,0
+9,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,y,y,y,linear,default,0
